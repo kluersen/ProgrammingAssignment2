@@ -14,8 +14,8 @@
 ##          chaching the inverse matrix, allowing for multiple recalls of the inverse 
 ##          matrix without recalculation.
 ##
-## Warnings: This script works under error free conditions. It does not check for or 
-##          handle error events.
+## Warnings: This script works under error free conditions. It does not check for, or 
+##          handle, error events.
 ##
 
 
